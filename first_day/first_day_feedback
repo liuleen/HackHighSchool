@@ -1,0 +1,13 @@
+First day
+
+	Use chmod to change the permissions of the hidden text file so that it is read-only for everybody, including yourself!
+
+		-The permission changes back to default after we push it as read only. Don’t really know how to fix it
+
+		-I tried fixing it and doing different ways of changing permissions..(i also had MLU try and fix it and we couldnt find a solution)
+
+	Scholastic_enterprises.
+		-Since we don’t put any files in this directory, it doesn’t push into the repo and the students don’t notice it because they don’t use “git status” 
+			command. 
+		-A hidden file or a regular file has to be in the directory for it to be pushed into the repository
+
